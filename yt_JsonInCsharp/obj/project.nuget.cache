@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rD+JO/mjqnJyiFnQqt9GXteieVhT9dC1wgLS9vCKBJyZLUHpBPwS1mF0tApU1jbxri9dIZyQRuiluCprOd1b/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\helen\\source\\repos\\yt_JsonInCsharp\\yt_JsonInCsharp\\yt_JsonInCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\helen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

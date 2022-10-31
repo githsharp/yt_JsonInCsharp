@@ -1,0 +1,16 @@
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\obj\Debug\netcoreapp3.1\yt_JsonInCsharp.csproj.AssemblyReference.cache
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\obj\Debug\netcoreapp3.1\yt_JsonInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\obj\Debug\netcoreapp3.1\yt_JsonInCsharp.AssemblyInfoInputs.cache
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\obj\Debug\netcoreapp3.1\yt_JsonInCsharp.AssemblyInfo.cs
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\obj\Debug\netcoreapp3.1\yt_JsonInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\bin\Debug\netcoreapp3.1\yt_JsonInCsharp.exe
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\bin\Debug\netcoreapp3.1\yt_JsonInCsharp.deps.json
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\bin\Debug\netcoreapp3.1\yt_JsonInCsharp.runtimeconfig.json
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\bin\Debug\netcoreapp3.1\yt_JsonInCsharp.runtimeconfig.dev.json
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\bin\Debug\netcoreapp3.1\yt_JsonInCsharp.dll
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\bin\Debug\netcoreapp3.1\yt_JsonInCsharp.pdb
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\obj\Debug\netcoreapp3.1\yt_JsonInCsharp.csproj.CopyComplete
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\obj\Debug\netcoreapp3.1\yt_JsonInCsharp.dll
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\obj\Debug\netcoreapp3.1\yt_JsonInCsharp.pdb
+C:\Users\helen\source\repos\yt_JsonInCsharp\yt_JsonInCsharp\obj\Debug\netcoreapp3.1\yt_JsonInCsharp.genruntimeconfig.cache
